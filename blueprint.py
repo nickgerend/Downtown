@@ -1,3 +1,6 @@
+# Written by: Nick Gerend, @dataoutsider
+# Viz: "Downtown", enjoy!
+
 import pandas as pd
 import os
 import math
